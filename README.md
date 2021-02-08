@@ -10,11 +10,7 @@ npm install
 
 ```
 run: node server.js
+* run at set local host machine
 
 ```
 
-### Compiles and hot-reloads for development
-
-```
-npm run start
-```
