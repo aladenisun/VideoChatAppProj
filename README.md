@@ -9,7 +9,8 @@ npm install
 ### To run Server Side
 
 ```
-run: node server.js
+run: npm run start 
+     or node server.js if with nodemon
 * run at set local host machine
 
 ```
